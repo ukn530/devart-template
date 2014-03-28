@@ -1,33 +1,22 @@
 # Project Title
-Insert the name of your project
+Mosaic
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+Tatsuya Uchida
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Mosaic is a movie made up of movies. It is like a trick of [photographic mosaic](http://en.wikipedia.org/wiki/Photographic_mosaic "photographic mosaic"). In this case, the medium is not a photo, but a movie.
+I shot actors from above or below because I didn't want to make "up and down" in this screen to express a fractal world. Actors use some clothes to contrast image of cells in this movie. 
+
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+I made another version before this work.
+[Cell](https://www.youtube.com/watch?v=LpqMWEbs-Xo "cell")
 
-[Example Link](http://www.google.com "Example Link")
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+[openFrameworks](http://www.openframeworks.cc "openFrameworks")
 
-[Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
-
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+https://www.youtube.com/watch?v=Xo587Gm-Wzo

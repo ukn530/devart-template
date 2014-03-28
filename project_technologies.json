@@ -1,16 +1,14 @@
 {
     "technologies": {
-        "apis": [
-            "insert apis"
-        ],
         "platforms": [
-            "insert platforms"
+            "YouTube"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openFrameworks"
         ]
     },
     "themes": [
-        "insert themes"
+        "mosaic",
+        "movie"
     ]
 }
