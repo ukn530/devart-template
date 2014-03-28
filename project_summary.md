@@ -1,5 +1,5 @@
-# Project Title
-Mosaic
+# Mosaic
+
 
 ## Authors
 Tatsuya Uchida
@@ -11,7 +11,7 @@ I shot actors from above or below because I didn't want to make "up and down" in
 
 ## Link to Prototype
 I made another version before this work.
-[Cell](https://www.youtube.com/watch?v=LpqMWEbs-Xo "cell")
+[Cell](http://ukn.cc/portfolio/?p=12 "cell")
 
 
 ## Links to External Libraries
