@@ -39,7 +39,6 @@ for (int i=0; i < 100; i++) {
 	ag = 0;
 	ab = 0;
 
-
 	if (cellMovie[i].bLoaded){
 		memcpy(pixelss, pixels, width * height * 3);
 		tex[i].loadData(pixelss, width, height, GL_RGB);
