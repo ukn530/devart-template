@@ -14,7 +14,7 @@ I made another version before this work.
 [Cell](http://ukn.cc/portfolio/?p=12 "cell")
 
 ## Sample code
-'''
+```
 for (int i=0; i < 100; i++) {
 	cellMovie[i].idleMovie();
 	unsigned char * pixels = cellMovie[i].getPixels();
@@ -46,7 +46,7 @@ for (int i=0; i < 100; i++) {
 	}
 	cellMovie[i].nextFrame();
 }
-'''
+```
 
 ## Links to External Libraries
 [openFrameworks](http://www.openframeworks.cc "openFrameworks")
